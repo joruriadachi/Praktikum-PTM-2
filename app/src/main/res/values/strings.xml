@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praktikum PTM 2</string>
+    <string name="nilai_1">Alas 1</string>
+    <string name="nilai_2">Alas 2</string>
+    <string name="nilai_3">Tinggi</string>
+    <string name="ok">Hitung</string>
+</resources>
